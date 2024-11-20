@@ -1,0 +1,19 @@
+{
+  "name": "acen/parser",
+  "type": "project",
+  "require": {
+    "imangazaliev/didom": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Parser\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Acen",
+      "email": "zeroc0de@mail.ru"
+    }
+  ],
+  "minimum-stability": "stable"
+}
