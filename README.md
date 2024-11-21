@@ -1,4 +1,4 @@
-## Task for php-developer (junior).md (Eplex)
+## Task for php-developer (junior). Eplex
 
 Написать функцию, которая на вход принимает текстовую строку – ту, которую мы печатаем в поисковую строку на сайте для поиска товара.
 
