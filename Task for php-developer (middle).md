@@ -1,4 +1,4 @@
-## Result in [calcPlan.php](blob/main/calcPlan.php)
+## Result in [calcPlan.php](https://github.com/zeroc0de2022/autozap_parser_test/blob/main/calcPlan.php)
 
 Дано: 
 
